@@ -1,4 +1,4 @@
-# Reddit Data Pipeline Project
+# RedditMiner
 
 This project automates the collection, cleaning, storage, and analysis of data from Reddit. By integrating Reddit's API with Google Cloud services, this pipeline allows users to gain insights into trending topics, popular discussions, and community sentiment across various subreddits. It is designed for researchers, analysts, and data scientists interested in tracking real-time trends and analyzing large-scale Reddit data.
 
